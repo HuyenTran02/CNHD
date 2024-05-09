@@ -1,0 +1,2 @@
+export const client_id = "3Jae96WDjREfM2bufhbBszfuvqDy0QNA8NblO2hE"
+export const client_secret = "UW2AjikVxWoyuY2KdG8kHefvciua4m7WzyA5qNBbMQtTPIDl8oHHsZcFZa6oHXEvcGLeeB0vclckD9Wfqd6AQfhstQQyWPHs1UF6a7X7b3FMg11Op5kEzScTnDCSfxOd"
